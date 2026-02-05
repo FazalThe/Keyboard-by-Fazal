@@ -1,7 +1,7 @@
 # Custom Wireless Mechanical Keyboard (Pico W)
 ![Alt text](Assets/rend.png)
 
-A custom-designed **wireless mechanical keyboard** built around the **Raspberry Pi Pico W**, featuring a hand-wired key matrix, rotary encoders, RGB underglow, OLED display, rechargeable battery support, and a fully custom 3D-printed case.
+A custom-designed **wireless mechanical keyboard** built around the **Raspberry Pi Pico W**, featuring a hand-wired key matrix, rotary encoders, OLED display, rechargeable battery support, and a fully custom 3D-printed case.
 
 ---
 
@@ -48,19 +48,6 @@ A custom-designed **wireless mechanical keyboard** built around the **Raspberry 
 - Solder board / perfboard  
 - M3 × 20 mm screws ×8  
 - M3 heat-set inserts ×8  
-
----
-
-## 🛠 Assembly Notes
-
-- The keyboard matrix is primarily **hand-wired**
-- Diodes should be oriented consistently per row
-- RGB LEDs are chained in series (DIN → DOUT)
-- Heat-set inserts are recommended for durability
-  - Battery
-  - OLED
-  - Encoder bodies
-  - USB port access
 
 ---
 
