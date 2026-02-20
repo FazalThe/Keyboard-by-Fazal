@@ -3,6 +3,8 @@
 
 A custom-designed **wireless mechanical keyboard** built around the **Raspberry Pi Pico W**, featuring a hand-wired key matrix, rotary encoders, OLED display, rechargeable battery support, and a fully custom 3D-printed case.
 
+The **Layout** is custome made by me
+
 ---
 
 ## 📸 Project Overview
