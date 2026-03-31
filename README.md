@@ -13,7 +13,7 @@ The **Layout** is custome made by me
 ![Case Top](Assets/case%20top.png)
 
 ### Case (Bottom Shell)
-![Case Top](Assets/bottom%20top.png)
+![Case Top](Assets/bottom.png)
 
 ### Key Layout
 ![Layout](Assets/layout.png)
