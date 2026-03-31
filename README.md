@@ -13,7 +13,7 @@ The **Layout** is custome made by me
 ![Case Top](Assets/case%20top.png)
 
 ### Case (Bottom Shell)
-![Case Top](Assets/case%20top.png)
+![Case Top](Assets/bottom%20top.png)
 
 ### Key Layout
 ![Layout](Assets/layout.png)
@@ -23,8 +23,7 @@ The **Layout** is custome made by me
 
 ---
 
-## 🧩 Bill of Materials (Summary)
-
+## 🧩 Bill of Materials 
 ### Core Electronics
 - Raspberry Pi Pico W ×1  
 - Mechanical key switches ×78  
@@ -52,6 +51,4 @@ The **Layout** is custome made by me
 - M3 heat-set inserts ×8  
 
 ---
-
-## 📂 Repository Structure
 
